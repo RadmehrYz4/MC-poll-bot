@@ -8,7 +8,7 @@ url = f"https://api.telegram.org/bot{TOKEN}/sendPoll"
 
 data = {
     "chat_id": CHAT_ID,
-    "question": "🎮 امشب ماینکرفت بازی می‌کنید؟",
+    "question": "🎮امشب هستین؟",
     "options": '["✅ آره", "❌ نه"]',
     "is_anonymous": False
 }
